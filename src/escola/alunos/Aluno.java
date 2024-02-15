@@ -1,5 +1,7 @@
 package escola.alunos;
 
+// Conhecendo os Getter e Setters
+
 public class Aluno {
     private String nome;
     private int idade;
