@@ -10,19 +10,13 @@ public class Pessoa {
         this.cpf = cpf;        
     }
 
-    
-    
     public Pessoa() {
 
     }
 
-    
-
     public Pessoa(String nome) {
         this.nome = nome;
     }
-
-
 
     public String getNome() {
         return nome;
@@ -36,8 +30,5 @@ public class Pessoa {
     public void setEndereco(String endereco) {
         this.endereco = endereco;
     }
-
-   
-    //...
-    // setters de nome e cpf ?
+    
 }
