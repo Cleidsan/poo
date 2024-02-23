@@ -1,4 +1,4 @@
-package Pilares.Encapsulamento;
+package Pilares.encapsulamento;
 
 public class Autodromo {
     public static void main(String[] args) {

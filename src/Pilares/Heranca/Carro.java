@@ -1,4 +1,4 @@
-package Pilares.Heranca;
+package Pilares.heranca;
 
 public class Carro extends Veiculo{
     public void Ligar() {

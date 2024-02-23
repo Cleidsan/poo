@@ -1,4 +1,4 @@
-package Pilares.Abstracao;
+package Pilares.abstracao;
 
 public class Moto extends Veiculo{
 

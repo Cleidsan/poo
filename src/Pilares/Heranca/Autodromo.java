@@ -1,4 +1,4 @@
-package Pilares.Heranca;
+package Pilares.heranca;
 
 public class Autodromo {
     public static void main(String[] args) {

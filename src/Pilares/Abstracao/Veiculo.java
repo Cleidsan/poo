@@ -1,4 +1,4 @@
-package Pilares.Abstracao;
+package Pilares.abstracao;
 
 public abstract class Veiculo {
     private String chassi;
